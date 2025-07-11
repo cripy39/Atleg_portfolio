@@ -2,7 +2,7 @@
 /* 変数定義 */
 :root {
   --text-color: #9BF9CC;           /* 濃い青 */
-  --bg-color: #87CEFA;             /* 薄い青 */
+  --bg-color: #66CCCC;             /* 薄い青 */
   --article-color: #00BFFF;        /* 文字用の濃い青 */
   --article-bg-color: #D9E5FF;     /* さらに薄い青 */
   --header-text-color: var(--bg-color);
