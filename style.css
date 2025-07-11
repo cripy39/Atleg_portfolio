@@ -4,7 +4,7 @@
   --text-color: #f0f8ff;           /* 濃い青 */
   --bg-color: #FFB3C1;             /* 薄い青 */
   --article-color: #E6678C;        /* 文字用の濃い青 */
-  --article-bg-color: #E03B62;     /* さらに薄い青 */
+  --article-bg-color: #fffafa;     /* さらに薄い青 */
   --header-text-color: var(--bg-color);
   --header-bg-color: var(--text-color);
   --main-blur-color: rgba(255, 192, 203, 0.15); /* 青系のぼかし */
