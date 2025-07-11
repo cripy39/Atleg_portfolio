@@ -1,13 +1,13 @@
 @charset "UTF-8";
 /* 変数定義 */
 :root {
-  --text-color: #90EE90;           /* 濃い青 */
-  --bg-color: #CCEECC;             /* 薄い青 */
-  --article-color: #48D1CC;        /* 文字用の濃い青 */
-  --article-bg-color: #FFFFFF;     /* さらに薄い青 */
+  --text-color: #FFDDE2;           /* 濃い青 */
+  --bg-color: #FFB3C1;             /* 薄い青 */
+  --article-color: #E6678C;        /* 文字用の濃い青 */
+  --article-bg-color: #E03B62;     /* さらに薄い青 */
   --header-text-color: var(--bg-color);
   --header-bg-color: var(--text-color);
-  --main-blur-color: rgba(37, 116, 169, 0.15); /* 青系のぼかし */
+  --main-blur-color: rgba(255, 192, 203, 0.15); /* 青系のぼかし */
   --grost-orange: #7ecbff;         /* アクセントの明るい青 */
   /* フォントサイズはそのまま */
   --font-xs: 0.75rem;
