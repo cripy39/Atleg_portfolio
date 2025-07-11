@@ -3,7 +3,7 @@
 :root {
   --text-color: #9BF9CC;           /* 濃い青 */
   --bg-color: #CBFFD3;             /* 薄い青 */
-  --article-color: #6495ED;        /* 文字用の濃い青 */
+  --article-color: #33CCFF;        /* 文字用の濃い青 */
   --article-bg-color: #D9E5FF;     /* さらに薄い青 */
   --header-text-color: var(--bg-color);
   --header-bg-color: var(--text-color);
