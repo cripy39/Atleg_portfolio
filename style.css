@@ -1,9 +1,9 @@
 @charset "UTF-8";
 /* 変数定義 */
 :root {
-  --text-color: #FF69A3;           /* 濃い青 */
-  --bg-color: #FFABCE;             /* 薄い青 */
-  --article-color: #00CCCC;        /* 文字用の濃い青 */
+  --text-color: #336633;           /* 濃い青 */
+  --bg-color: #CCEECC;             /* 薄い青 */
+  --article-color: #228B22;        /* 文字用の濃い青 */
   --article-bg-color: #FFFFFF;     /* さらに薄い青 */
   --header-text-color: var(--bg-color);
   --header-bg-color: var(--text-color);
